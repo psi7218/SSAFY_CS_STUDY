@@ -22,9 +22,9 @@
 
 ### 📝 진행
 
-**- 주차 별 주제에 대한 각 3개 질문 선정**
+**- 해당 주제에 대한 개인별 3개 질문 선정**
 
-**- 스터디 전 날까지 각 질문에 대한 공부 및 답변 정리**
+**- 스터디 전 날까지 각 질문에 대한 공부 및 답변 노션에 정리**
 
 **- 랜덤 질문에 대한 모의 기술 면접 진행**
 
@@ -44,7 +44,7 @@
 | 날짜 (요일) | 주제 | 정리 |
 | :---: | :---: | :---: |
 | 03.07. (금) | 공통 | 스터디 진행 방식 및 일정 회의 |
-| 03.13. (목) | Java | [Notion](https://silicon-echinodon-49c.notion.site/1afa564bc23980acb36bdeafe2007fa7?pvs=4) |
+| 03.13. (목) | Java | [Notion](https://silicon-echinodon-49c.notion.site/Backend-CS-Study-1aea564bc23980c68e1ecfc04a42171e?pvs=4) |
 | 03.20. (목) | SpringBoot |  |
 | 03.27. (목) | DataStructure |  |
 
