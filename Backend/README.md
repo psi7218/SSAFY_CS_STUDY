@@ -16,7 +16,7 @@
 
 ### ⏰ 시간
 
-**매주 목 16 : 00 - 17 : 30**<br>
+**매주 금 16 : 00 - 17 : 30**<br>
 
 <br/>
 
@@ -45,8 +45,8 @@
 | :---: | :---: | :---: |
 | 03.07. (금) | 공통 | 스터디 진행 방식 및 일정 회의 |
 | 03.13. (목) | Java | [Notion](https://silicon-echinodon-49c.notion.site/Backend-CS-Study-1aea564bc23980c68e1ecfc04a42171e?pvs=4) |
-| 03.21. (금) | SpringBoot |  |
-| 03.27. (목) | DataStructure |  |
+| 03.28. (금) | SpringBoot | [Notion](https://silicon-echinodon-49c.notion.site/Backend-CS-Study-1aea564bc23980c68e1ecfc04a42171e?pvs=4) |
+| 03.28. (금) | DataStructure | [Notion](https://silicon-echinodon-49c.notion.site/Backend-CS-Study-1aea564bc23980c68e1ecfc04a42171e?pvs=4) |
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 | 날짜 (요일) | 주제 | 정리 |
 | :---: | :---: | :---: |
-| 04.03. (목) | DB |  |
-| 04.10. (목) | OS |  |
-| 04.17. (목) | Network |  |
-| 04.24. (목) | 프로젝트 |  |
+| 04.04. (금) | DB |  |
+| 04.11. (금) | OS |  |
+| 04.18. (금) | Network |  |
+| 04.25. (금) | 프로젝트 |  |
